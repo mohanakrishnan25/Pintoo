@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class OccuranceOfLetter {
+
 	public static void main(String[]args) {
 	String name= "MY NAME IS MOHANAKRISHNAN";
 	Map<Character, Integer> map = new HashMap<>();

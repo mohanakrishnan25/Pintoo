@@ -1,6 +1,7 @@
 package demo;
 
 public class Palindrom {
+
 public static void main(String[]args) {
 	int num = 1221;
 	int i=0,j=0,a= num;
